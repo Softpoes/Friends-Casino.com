@@ -1,3 +1,4 @@
+<img width="1560" height="952" alt="123" src="https://github.com/user-attachments/assets/d5db9786-b572-45b8-9708-efe99a4398df" />
 # Friends-Casino.com
 markdown# 🎰 Friends Casino (Френдс Казино) — Официальный сайт и рабочее зеркало на сегодня
 
