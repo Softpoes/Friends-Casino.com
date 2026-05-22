@@ -6,7 +6,7 @@ markdown# 🎰 Friends Casino (Френдс Казино) — Официальн
 <!-- name="keywords" content="friends casino, френдс казино, френдс казино зеркало, friends casino официальный сайт, френдс казино вход, промокод friends casino" -->
 
 <p align="center">
-  <img src="[https://ibb.co/TM0pxYBQ]" alt="Официальный интерфейс игрового клуба Friends Casino" width="100%">
+  <img src="(https://ibb.co/TM0pxYBQ)" alt="Официальный интерфейс игрового клуба Friends Casino" width="100%">
 </p>
 
 
